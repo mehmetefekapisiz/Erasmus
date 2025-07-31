@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\E\u002B Courses\\Human Computer Interaction\\GameForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8A399C1-2ECF-4BA1-996D-233AF9E80949}|GameForm\\GameForm.csproj|c:\\users\\mehme\\onedrive\\masa\u00FCst\u00FC\\e\u002B courses\\human computer interaction\\gameform\\gameform\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8A399C1-2ECF-4BA1-996D-233AF9E80949}|GameForm\\GameForm.csproj|solutionrelative:gameform\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\E\u002B Courses\\Human Computer Interaction\\GameForm\\GameForm\\GameController.cs",
+              "RelativeDocumentMoniker": "GameForm\\GameController.cs",
+              "ToolTip": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\E\u002B Courses\\Human Computer Interaction\\GameForm\\GameForm\\GameController.cs",
+              "RelativeToolTip": "GameForm\\GameController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T19:59:34.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

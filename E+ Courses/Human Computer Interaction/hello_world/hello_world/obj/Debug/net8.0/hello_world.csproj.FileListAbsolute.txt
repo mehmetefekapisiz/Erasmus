@@ -1,0 +1,14 @@
+C:\Users\mehme\OneDrive\Masaüstü\hello_world\hello_world\bin\Debug\net8.0\hello_world.exe
+C:\Users\mehme\OneDrive\Masaüstü\hello_world\hello_world\bin\Debug\net8.0\hello_world.deps.json
+C:\Users\mehme\OneDrive\Masaüstü\hello_world\hello_world\bin\Debug\net8.0\hello_world.runtimeconfig.json
+C:\Users\mehme\OneDrive\Masaüstü\hello_world\hello_world\bin\Debug\net8.0\hello_world.dll
+C:\Users\mehme\OneDrive\Masaüstü\hello_world\hello_world\bin\Debug\net8.0\hello_world.pdb
+C:\Users\mehme\OneDrive\Masaüstü\hello_world\hello_world\obj\Debug\net8.0\hello_world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\OneDrive\Masaüstü\hello_world\hello_world\obj\Debug\net8.0\hello_world.AssemblyInfoInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\hello_world\hello_world\obj\Debug\net8.0\hello_world.AssemblyInfo.cs
+C:\Users\mehme\OneDrive\Masaüstü\hello_world\hello_world\obj\Debug\net8.0\hello_world.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\hello_world\hello_world\obj\Debug\net8.0\hello_world.dll
+C:\Users\mehme\OneDrive\Masaüstü\hello_world\hello_world\obj\Debug\net8.0\refint\hello_world.dll
+C:\Users\mehme\OneDrive\Masaüstü\hello_world\hello_world\obj\Debug\net8.0\hello_world.pdb
+C:\Users\mehme\OneDrive\Masaüstü\hello_world\hello_world\obj\Debug\net8.0\hello_world.genruntimeconfig.cache
+C:\Users\mehme\OneDrive\Masaüstü\hello_world\hello_world\obj\Debug\net8.0\ref\hello_world.dll

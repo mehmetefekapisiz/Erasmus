@@ -1,0 +1,14 @@
+C:\Users\mehme\OneDrive\Masaüstü\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\OneDrive\Masaüstü\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.AssemblyInfoInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.AssemblyInfo.cs
+C:\Users\mehme\OneDrive\Masaüstü\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\TextRPG\TextRPG\bin\Debug\net8.0\TextRPG.exe
+C:\Users\mehme\OneDrive\Masaüstü\TextRPG\TextRPG\bin\Debug\net8.0\TextRPG.deps.json
+C:\Users\mehme\OneDrive\Masaüstü\TextRPG\TextRPG\bin\Debug\net8.0\TextRPG.runtimeconfig.json
+C:\Users\mehme\OneDrive\Masaüstü\TextRPG\TextRPG\bin\Debug\net8.0\TextRPG.dll
+C:\Users\mehme\OneDrive\Masaüstü\TextRPG\TextRPG\bin\Debug\net8.0\TextRPG.pdb
+C:\Users\mehme\OneDrive\Masaüstü\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.dll
+C:\Users\mehme\OneDrive\Masaüstü\TextRPG\TextRPG\obj\Debug\net8.0\refint\TextRPG.dll
+C:\Users\mehme\OneDrive\Masaüstü\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.pdb
+C:\Users\mehme\OneDrive\Masaüstü\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.genruntimeconfig.cache
+C:\Users\mehme\OneDrive\Masaüstü\TextRPG\TextRPG\obj\Debug\net8.0\ref\TextRPG.dll
